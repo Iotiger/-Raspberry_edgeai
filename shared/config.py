@@ -30,3 +30,5 @@ MODEL_PATH = get_env_str("MODEL_PATH", "./edge/inference/models/waste_det.onnx")
 MODEL_BACKEND = get_env_str("MODEL_BACKEND", "onnx")
 
 
+
+# tweak 6 at 2025-09-24 20:37:38
